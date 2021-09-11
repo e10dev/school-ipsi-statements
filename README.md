@@ -1,1 +1,0 @@
-# school-ipsi-statements
