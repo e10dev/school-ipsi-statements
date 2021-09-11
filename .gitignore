@@ -1,0 +1,10 @@
+# secrets
+secrets.json
+
+# tests
+dashboard/bulletin_boardTest.py
+dashboard/schoolchart.py
+dashboard/Volunteer.py
+
+firstUI/template/ksh.html
+firstUI/template/test.html
