@@ -1,5 +1,5 @@
 # school-ipsi-statements
-School ipsi site with django
+School ipsi site with django  
 
 ## RUN
 ```bash
